@@ -222,6 +222,8 @@ h6::after {
   padding-left: 20px;
 }
 
+
+
 .arrow:before {
   content: "";
   position: absolute;
